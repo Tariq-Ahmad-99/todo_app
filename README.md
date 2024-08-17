@@ -1,16 +1,16 @@
-# todo_app
+# To-Do App ✅
 
-A new Flutter project.
+To-Do App is a simple and effective task management application built with Flutter. It helps users organize their tasks, set priorities, and manage their time efficiently.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Technologies Used 🛠️
 
-A few resources to get you started if this is your first Flutter project:
+Flutter: Frontend framework for building cross-platform apps.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Dart: Programming language used with Flutter.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+SQLite: Local database for task storage.
+
+![todoFoto](https://github.com/user-attachments/assets/3049f065-19ff-4912-9559-375761b08edb)
+
+https://github.com/user-attachments/assets/74953919-4814-4141-bba9-740fc9965fcb
